@@ -1,33 +1,32 @@
-# Hi, I'm Pream 👋
+# Hey, I'm Pream
 
-I build practical Python projects and enjoy turning ideas into interactive software. My current work explores **computer vision**, **real-time input**, and clear, approachable developer experiences.
+I'm a freshman at Kasem Bundit University studying Digital Technology
+Innovation. I'm teaching myself to code with Python — mostly by picking
+random ideas out of my head and trying to build them, even if they don't
+always come out finished.
 
-## Featured project
+## Things I've tried so far
 
-### [Hand Gesture Meme Detector](https://github.com/Pream-toki/hand_mem_dector/tree/hand_mem_dector)
+- **Travel planner** — a Flask web app where you can search flights by city.
+  My first actual web app.
+- **Telegram auto-reply bot** — a bot that answers questions about a shop
+  (prices, hours, delivery) and collects bookings. Works with Myanmar text too.
+- **Hand-gesture meme detector** — webcam + OpenCV + MediaPipe. Make a hand
+  sign and get a meme back.
+- **Threaded SSH login tester** — I built this to understand how threading
+  and queues work (paramiko + threads).
+- **My fun python project** — my scratch repo. Mostly empty, lots of plans.
 
-A real-time Python computer-vision project that recognizes hand gestures from a webcam and displays a matching random meme.
+## What I'm learning
 
-- Built with **Python**, **OpenCV**, and **MediaPipe**
-- Uses hand landmarks and rule-based gesture recognition
-- Supports fist, pointing, peace, open-hand, and thumbs-up gestures
-- Includes clear setup instructions and customizable meme folders
+Python, Flask, OpenCV, git, threading — really just whatever the current
+project needs. My code is messy and I still google basic stuff every day,
+but it works a little more often than it used to.
 
-## What I work with
+## Elsewhere
 
-```text
-Python · OpenCV · MediaPipe · Computer Vision · Git · GitHub
-```
+When I'm not coding I'm probably playing PUBG Mobile or watching anime
+(Jujutsu Kaisen and Demon Slayer are my favorites).
 
-## Explore my work
-
-- [Hand Gesture Meme Detector](https://github.com/Pream-toki/hand_mem_dector/tree/hand_mem_dector) — webcam gesture recognition with interactive meme responses
-- [Threaded Queue Demo](https://github.com/Pream-toki/threaded-queue-demo) — an experiment with threaded queue handling
-
-## Connect
-
-Feel free to explore my repositories and follow along as I continue building.
-
----
-
-<sub>Thanks for visiting my profile.</sub>
+Everything here is me learning in public. If you have advice — or want to
+talk about tech, games, or anime — feel free to say hi.
