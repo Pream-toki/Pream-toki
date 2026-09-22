@@ -29,8 +29,6 @@ day, but it works a little more often than it used to.
 
 ## Elsewhere
 
-When I'm not coding I'm probably playing PUBG Mobile or watching anime
-(Jujutsu Kaisen and Demon Slayer are my favorites).
-
+When I'm not coding I'm probably playing games or watching anime 
 Everything here is me learning in public. If you have advice — or want to
 talk about tech, games, or anime — feel free to say hi.
