@@ -7,6 +7,10 @@ always come out finished.
 
 ## Things I've tried so far
 
+- **PC Observatory** — a Windows desktop app that watches my own PC: live
+  CPU/RAM/network charts, what's installed, my scripts and scheduled tasks,
+  and what changed since my last snapshot. PySide6 + SQLite + psutil. My
+  biggest project so far.
 - **Travel planner** — a Flask web app where you can search flights by city.
   My first actual web app.
 - **Telegram auto-reply bot** — a bot that answers questions about a shop
@@ -19,9 +23,9 @@ always come out finished.
 
 ## What I'm learning
 
-Python, Flask, OpenCV, git, threading — really just whatever the current
-project needs. My code is messy and I still google basic stuff every day,
-but it works a little more often than it used to.
+Python, Flask, OpenCV, PySide6, git, threading — really just whatever the
+current project needs. My code is messy and I still google basic stuff every
+day, but it works a little more often than it used to.
 
 ## Elsewhere
 
