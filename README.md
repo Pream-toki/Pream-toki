@@ -24,6 +24,8 @@ always come out finished.
   infostealer on my own PC. Instead of panicking I investigated it like a SOC analyst:
   attack timeline, how the malware worked, what it stole, and how I cleaned it up.
   My first real security write-up.
+- **Water tracker** — an Android app to log drinking water, from the app itself,
+  a home screen widget, or a notification. My first try at Kotlin + Jetpack Compose.
 
 ## What I'm learning
 
