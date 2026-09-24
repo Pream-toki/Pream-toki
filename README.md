@@ -20,6 +20,10 @@ always come out finished.
 - **Threaded SSH login tester** — I built this to understand how threading
   and queues work (paramiko + threads).
 - **My fun python project** — my scratch repo. Mostly empty, lots of plans.
+- **SOC incident report** — I got hit by a fake CAPTCHA page that made me run an
+  infostealer on my own PC. Instead of panicking I investigated it like a SOC analyst:
+  attack timeline, how the malware worked, what it stole, and how I cleaned it up.
+  My first real security write-up.
 
 ## What I'm learning
 
