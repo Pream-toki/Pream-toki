@@ -33,6 +33,12 @@ Python, Flask, OpenCV, PySide6, git, threading — really just whatever the
 current project needs. My code is messy and I still google basic stuff every
 day, but it works a little more often than it used to.
 
+Lately I've been leaning into security stuff. My own PC got hit by an
+infostealer through a fake CAPTCHA page, and instead of just reinstalling I
+went down the rabbit hole: reading the logs, rebuilding the attack timeline,
+hunting for persistence, writing it all up. That investigation is on my profile
+now, and it's probably the direction I want to go after graduation.
+
 ## Elsewhere
 
 When I'm not coding I'm probably playing games or watching anime 
